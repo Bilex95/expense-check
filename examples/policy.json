@@ -1,0 +1,9 @@
+{
+  "receiptRequiredOver": 25,
+  "flagWeekends": true,
+  "categoryLimits": {
+    "meals": 60,
+    "taxi": 80,
+    "hotel": 200
+  }
+}

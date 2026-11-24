@@ -1,0 +1,10 @@
+id,employee,date,category,merchant,amount,receipt
+C-101,E-1042,2026-10-05,meals,Corner Bistro,38.50,yes
+C-102,E-1042,2026-10-06,taxi,City Cabs,92.00,yes
+C-103,E-1042,2026-10-06,taxi,City Cabs,92.00,yes
+C-104,E-2177,2026-10-07,hotel,"Harbour Hotel, Room 12",180.00,no
+C-105,E-2177,2026-10-10,meals,Station Cafe,12.40,no
+C-106,E-2177,2026-10-11,meals,Weekend Grill,54.00,yes
+C-107,E-3310,2026-10-08,software,"Design Tool ""Pro"" plan",29.00,yes
+C-108,E-3310,2026-11-02,taxi,City Cabs,18.00,no
+C-109,E-3310,2026-10-09,meals,Office Lunch,22.10,no
